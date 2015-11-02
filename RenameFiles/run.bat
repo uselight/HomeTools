@@ -1,0 +1,1 @@
+RenameFiles.exe %cd%\files %cd%\new 1
